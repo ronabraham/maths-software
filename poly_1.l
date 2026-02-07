@@ -8,7 +8,6 @@ matching pattern = \+ or \-
 */
 %{
 #include<math.h>
-#include<wchar
 char *variable;
 int exponent;
 int coefficient;
